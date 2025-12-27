@@ -69,7 +69,7 @@ Each CSV file contains the following columns:
 ```csv
 filename,mold,food,phone,microscope
 L10 - 48.jpeg,True,carrot,iPhone SE 2nd Generation,Apexel 100x
-
+```
 ## 📄 License
 
 This dataset is available under the terms of the **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**
