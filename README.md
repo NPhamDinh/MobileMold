@@ -16,13 +16,13 @@ The dataset addresses the growing need for accessible, low-cost food safety moni
 - **Smartphones:** Images captured with 3 different smartphone models
 ---
 
-## 📢 Important Notice: Data Release
+## 📢 Data Release
 
 You can download the full dataset here:
 
 ---
 
-## 📁 Dataset Structure
+### 📁 Dataset Structure
   ```
 MobileMold/
 ├── metadata.csv # Complete dataset metadata (4,941 entries)
@@ -41,7 +41,7 @@ MobileMold/
 └── ... (4,941 files, 1:1 mapping to original/)
   ```
 ---
-# 📊 Dataset Composition
+### 📊 Dataset Composition
 
 ### Image Versions
 1. **`original/`** - Raw images as captured by smartphone microscopes
