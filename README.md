@@ -1,4 +1,4 @@
-# MobileMold: Smartphone-Based Microscopy for Food Mold Detection
+# MobileMold: A Smartphone-Based Microscopy Dataset for Food Mold Detection
 A smartphone-microsope-based dataset with 4941 annotated images for food mold detection
 
 ## 🌟 About MobileMold
