@@ -11,7 +11,7 @@ The dataset addresses the growing need for accessible, low-cost food safety moni
 ### 📊 Dataset Overview
 - **Total Images:** 4,941
 - **Annotations:** Food Type and Mold Label
-- **Food Types:** 11 categories (carrot, orange, creamcheese, tomato, toast, raspberry, mixed bread, blackbery, blueberry, cheese, onion)
+- **Food Types:** 11 categories (carrot, orange, creamcheese, tomato, toast, raspberry, mixed bread, blackberry, blueberry, cheese, onion)
 - **Microscope Types:** 3 different clip-on smartphone microscopes (30x-100x magnification)
 - **Smartphones:** Images captured with 3 different smartphone models
 ---
